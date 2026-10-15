@@ -1,6 +1,8 @@
 # Noah Jorgensen
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noduh/)
+[![Mastodon](https://img.shields.io/mastodon/follow/110184380571548103?domain=mastodon.social)](https://mastodon.social/@noduh)
+
 
 Hey there!
 My name is Noah.
